@@ -1,9 +1,8 @@
 ############################################################################################################
-#¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯#
-#________Prediction of Secretome and Small Secreted Proteins (SSPs) in 131 species (Dataset 2)_____________#
-#__________________________________________________________________________________________________________#
+#########                                                                                          #########
+#########   Prediction of Secretome and Small Secreted Proteins (SSPs) in 131 species (Dataset2)   #########
+#########                                                                                          #########
 ############################################################################################################
-¯
 
 ###STEP1 : Concetenate the proteome files of 131 species into one fasta file (linux)
 #cat *.fas > 131sps_all.fas (here 131sps_all.fas is the output file) -this file needs checking before further processing
