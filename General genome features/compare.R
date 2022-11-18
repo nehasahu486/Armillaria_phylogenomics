@@ -10,8 +10,6 @@ library(ape)
 library(ggplot2)
 library(ggtree)
 library(ggtreeExtra)
-library(ggpubr)
-library(ggrepel)
 library(reshape2)
 library(ggforce)
 
