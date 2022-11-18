@@ -1,18 +1,17 @@
-############################################################################################################
-#########                                                                                          #########
-#########   Prediction of Secretome and Small Secreted Proteins (SSPs) in 131 species (Dataset2)   #########
-#########                                                                                          #########
-############################################################################################################
+####################################################################################################################################################
+#############################                                                                                          #############################
+#############################   Prediction of Secretome and Small Secreted Proteins (SSPs) in 131 species (Dataset2)   #############################
+#############################                                                                                          #############################
+####################################################################################################################################################
 
 ###STEP1 : Concetenate the proteome files of 131 species into one fasta file (linux)
 #cat *.fas > 131sps_all.fas (here 131sps_all.fas is the output file) -this file needs checking before further processing
 #grep -c ">" 131sps_all.fas (checks the number of lines containing ">" character)
 #grep -c "^>" 131sps_all.fas (checks the number of lines starting with ">", this should be same as the previous step - if not - CHECK why!) 
-#once it is confirmed that fasta headers are in correct number proceed with the following steps
+#once it is confirmed that fasta headers are in correct number, proceed with the following steps
 
 
 ###STEP2 : Read the concatenated proteome fasta for 131 species. For this use "seqinr" package in R
-setwd("my/directory")
 library(seqinr)
 allprot<-read.fasta("131sps_all.fas")
 #next step will convert the big fasta file into 3 columns - ProtID, Sequence, and Length
@@ -32,7 +31,7 @@ write.fasta(sequences=protfasta300,names=names(protfasta300), file.out="fname.fa
 
 ##STEP4 : Run SignalP v.4.1 with the "fname.fasta" file (for SSPs) OR "131sps_all.fas" (for complete Secretome)
 ##select the -short output style - for one line per protein type output
-###___command for SignalP__### /my/directory/signalp-4.1/signalp -t euk -f short fname.fasta > fname_short_out
+###___command for SignalP__### signalp-4.1/signalp -t euk -f short fname.fasta > fname_short_out
 ##"fname_short_out" is the SignalP output file
 #The same can be done for -summary and long type output as well - these would be the detailed output files
 
@@ -51,7 +50,7 @@ write.fasta(sequences=forTM,names=names(forTM),file.out="forTM.fasta",open='w',a
 
 ##STEP6: Use the "forTM.fasta" file to run TMHMM v2.0
 ###using -short output style - for one line per protein type output
-###___command for TMHMM___### /my/directory/tmhmm-2.0c/bin/tmhmm forTM.fasta -short > TM_output.tsv
+###___command for TMHMM___### tmhmm-2.0c/bin/tmhmm forTM.fasta -short > TM_output.tsv
 ##"TM_output.tsv" is the output file from TMHMM
 
 ##STEP7: Use the output from TMHMM to create a fasta file of sequences with ZERO trasmembrane helices
@@ -70,7 +69,7 @@ head(forWP)
 write.fasta(sequences=forWP,names=names(forWP), file.out="forWP.fasta",open='w',as.string=F)
 
 ##STEP8: Use the "forWP.fasta" file to run WolfPsort v0.2
-###___command for WolfPsort___### /my/directory/wolfpsort/bin/runWolfPsortSummary fungi < forWP.fasta >  WP_out.tsv
+###___command for WolfPsort___### wolfpsort/bin/runWolfPsortSummary fungi < forWP.fasta >  WP_out.tsv
 #Use the output from WolfPsort i.e. "WP_out.tsv" to select sequences with extracellular localization ("extr")
 #This will be the final list of SSPs (or Secreted proteins if "131sps_all.fas" was used at STEP4)
 
