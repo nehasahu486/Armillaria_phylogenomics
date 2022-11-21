@@ -11,6 +11,9 @@
 ##the output file we need, will have ".txt" extension (e.g. "short_summary_inputfungi.txt")
 ##to extract the "short_summary___.txt" files from multiple directories into a single directory, use "busco_outmerg.sh"
 
+**Concatenated supermatrix for inferring species tree**
+##Scripts used for concatenation of trimmed alignments into supermatrix and the partition file for species tree inference can be found in https://github.com/zsmerenyi/
+
 **COMPARE - COMparative Phylogenomic Analysis of tRait Evolution **
 (Nagy et al., 2014 - https://www.nature.com/articles/ncomms5471)
 ##scripts for COMPARE pipeline were based on https://github.com/laszlognagy/COMPARE and https://github.com/zsmerenyi/compaRe
