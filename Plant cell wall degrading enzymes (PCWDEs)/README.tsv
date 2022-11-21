@@ -1,1 +1,11 @@
-..
+############################################################################################################################
+#############################                                                                  #############################
+#############################    README file for Plant cell wall degrading enzymes (PCWDEs)    #############################
+#############################                                                                  #############################
+############################################################################################################################
+
+**Single copy Orthogroups (SCOGs**
+##Scripts used for generation of Single copy Orthogroups (SCOGs) by removing terminal duplications can be found at https://github.com/zsmerenyi/ 
+
+**Concatenated supermatrix for inferring species tree**
+##Scripts used for concatenation of trimmed alignments into supermatrix and the partition file for species tree inference can be found at https://github.com/zsmerenyi/
