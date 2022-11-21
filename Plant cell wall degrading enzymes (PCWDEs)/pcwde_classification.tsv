@@ -1,0 +1,138 @@
+CAZy_families	References	CAZy_fam_abbrv	Substrate	Category
+AA1	Nagy et al. 2015 (https://doi.org/10.1093/molbev/msv337)	AA1	Lignin	PCWDE
+AA1_1	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA1_1	Lignin	PCWDE
+AA1_2	Levasseur et al. 2013 (https://doi.org/10.1186/1754-6834-6-41), Liu et al. 2019 (https://doi.org/10.1186/s13068-019-1596-3)	AA1_2	Lignin	PCWDE
+AA1_3	Levasseur et al. 2013 (https://doi.org/10.1186/1754-6834-6-41)	AA1_3	Lignin	PCWDE
+Multicopper oxidase	Riley et al. 2014 (https://doi.org/10.1073/pnas.1400592111)	AA1_dist	Lignin	PCWDE
+AA10	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA10	Cellulose	PCWDE
+AA11	Støpamo et al. 2021 ( https://doi.org/10.1016/j.jbc.2021.101421)	AA11	Cellulose/Chitin,LPMO	PCWDE, FCW
+Lytic polysaccharide monooxygenase	Støpamo et al. 2021 ( https://doi.org/10.1016/j.jbc.2021.101421)	AA11_dist	Cellulose/Chitin,LPMO	PCWDE, FCW
+AA14	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA14	Hemicellulose	PCWDE, FCW
+AA15	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA15	Chitin, Cellulose	FCW
+AA16	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA16	Cellulose	PCWDE
+AA2	Riley et al. 2014 (https://doi.org/10.1073/pnas.1400592111), Nagy et al. 2015 (https://doi.org/10.1093/molbev/msv337),  Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA2	Lignin	PCWDE
+Class II peroxidase	Riley et al. 2014 (https://doi.org/10.1073/pnas.1400592111)	AA2_dist	Lignin	PCWDE
+AA3	Sützl et al. 2018 (https://doi.org/10.1007/s00253-018-8784-0)	AA3	Putatively acting on_lignin monomers	PCWDE
+AA3_1	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14) , Miyauchi et al. 2018 (https://doi.org/10.1186/s13068-018-1198-5)	AA3_1	Cellulose	PCWDE
+AA3_2	Sützl et al. 2018 (https://doi.org/10.1007/s00253-018-8784-0)	AA3_2	Putatively acting on_lignin monomers	PCWDE
+AA3_3	Sützl et al. 2018 (https://doi.org/10.1007/s00253-018-8784-0)	AA3_3	Putatively acting on_lignin monomers	PCWDE
+AA3_4	Sützl et al. 2018 (https://doi.org/10.1007/s00253-018-8784-0)	AA3_4	Putatively acting on_lignin monomers	PCWDE
+GMC oxidoreductase	Shah et al. 2015 (https://doi.org/10.1111/nph.13722)	AA3_dist	Putatively acting on_lignin monomers	PCWDE
+AA5	Strasser et al. 2015 (https://doi.org/10.1093/database/bav008)	AA5	Lignin	PCWDE
+AA5_1	Levasseur et al. 2013 (https://doi.org/10.1186/1754-6834-6-41), Daou et al. 2021 (https://doi.org/10.3390/jof7080643)	AA5_1	Putatively acting on_lignin monomers	PCWDE
+AA5_2	Levasseur et al. 2013 (https://doi.org/10.1186/1754-6834-6-41), Koschorreck et al. 2022 (https://doi.org/10.1016/j.engmic.2022.100037)	AA5_2	Putatively acting on_lignin monomers	PCWDE
+Copper radical oxidase	Levasseur et al. 2013 (https://doi.org/10.1186/1754-6834-6-41), Koschorreck et al. 2022 (https://doi.org/10.1016/j.engmic.2022.100037)	AA5_dist	Putatively acting on_lignin monomers	PCWDE
+AA8	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14) , Miyauchi et al. 2018 (https://doi.org/10.1186/s13068-018-1198-5)	AA8	Cellulose	PCWDE
+AA9	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	AA9	Cellulose	PCWDE
+CBM1	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM1	Cellulose	PCWDE
+CBM12	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM12	Chitin	FCW
+CBM14	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM14	Chitn	FCW
+CBM18	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM18	Chitin	FCW
+CBM43	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM43	Glucan	FCW
+CBM5	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM5	Chitin	FCW
+CBM50	Gruber et al. 2011 (https://doi.org/10.1093/glycob/cwq142)	CBM50	Chitin	FCW
+CBM63	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM63	Cellulose	PCWDE
+CBM67	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CBM67	Pectin	PCWDE
+CE12	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CE12	Pectin	PCWDE
+CE15	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CE15	Hemicellulose	PCWDE
+CE16	Floudas et al. 2012 (doi: 10.1126/science.1221748), Floudas et al. 2015 (https://doi.org/10.1016/j.fgb.2015.02.002), Nagy et al. 2016 (doi:10.1093/molbev/msw238)	CE16	Hemicellulose	PCWDE
+CE4	Krizsan et al. 2019 (https://doi.org/10.1073/pnas.1817822116)	CE4	Chitin	FCW
+CE5	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CE5	Hemicellulose, Cutin, Suberin	PCWDE
+CE8	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	CE8	Pectin	PCWDE
+EXPN	Ding et al. 2022 (https://doi.org/10.1016/j.biortech.2022.127434)	EXPN	Cellulose	PCWDE
+GH1	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14) , Miyauchi et al. 2018 (https://doi.org/10.1186/s13068-018-1198-5)	GH1	Cellulose	PCWDE
+GH10	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH10	Hemicellulose	PCWDE
+GH105	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH105	Pectin	PCWDE
+GH106	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH106	Pectin	PCWDE
+GH11	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH11	Hemicellulose	PCWDE
+GH113	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH113	Hemicellulose	PCWDE
+GH115	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH115	Hemicellulose	PCWDE
+GH12	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH12	Cellulose, Hemicellulose	PCWDE
+GH125	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH125	Mannan	FCW
+GH128	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH128	Glucan	FCW
+GH131	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH131	Cellulose	PCWDE
+GH132	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH132	Glucan	FCW
+GH134	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH134	Hemicellulose	PCWDE
+GH135	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH135	Galactan	FCW
+GH152	Krizsan et al. 2019 (https://doi.org/10.1073/pnas.1817822116)	GH152	Glucan	FCW
+GH16	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH16	Glucan	FCW
+GH16_2	Krizsan et al. 2019 (https://doi.org/10.1073/pnas.1817822116)	GH16_2	Glucan	FCW
+GH17	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH17	Glucan	FCW
+GH18	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH18	Chitin	FCW
+GH19	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH19	Chitin	FCW
+GH2	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14)	GH2	Hemicellulose	PCWDE
+GH20	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH20	Chitin	FCW
+GH23	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH23	Peptidoglycan	FCW
+GH24	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH24	Peptidoglycan	FCW
+GH25	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH25	Peptidoglycan	FCW
+GH26	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH26	Hemicellulose, Mannan	PCWDE, FCW
+GH27	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14)	GH27	Hemicellulose	PCWDE
+GH28	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH28	Pectin	PCWDE
+GH29	Floudas et al. 2015 (https://doi.org/10.1016/j.fgb.2015.02.002)	GH29	Hemicellulose	PCWDE
+GH3	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH3	Cellulose, Hemicellulose	PCWDE, FCW
+GH30	Miyauchi et al. 2018 (doi:10.1186/s13068-018-1198-5)	GH30	Hemicellulose	PCWDE
+GH30_3	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH30_3	Glucan	FCW
+GH30_5	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH30_5	Galactan	FCW
+GH30_7	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH30_7	Hemicellulose	PCWDE
+GH31	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14)	GH31	Hemicellulose	PCWDE
+GH35	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14)	GH35	Hemicellulose	PCWDE
+GH36	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14)	GH36	Hemicellulose	PCWDE
+GH43	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH43	Hemicellulose	PCWDE
+GH44	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH44	Cellulose	PCWDE
+GH45	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH45	Cellulose	PCWDE
+GH46	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH46	Chitin	FCW
+GH48	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH48	Cellulose	PCWDE
+GH5	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5	Cellulose, Hemicellulose	PCWDE
+GH5_1	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_1	Cellulose	PCWDE
+GH5_15	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_15	Glucan	FCW
+GH5_22	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_22	Cellulose, Hemicellulose	PCWDE
+GH5_31	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_31	Mannan	FCW
+GH5_4	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_4	Cellulose	PCWDE
+GH5_49	Krizsan et al. 2019 (https://doi.org/10.1073/pnas.1817822116)	GH5_49	Glucan	FCW
+GH5_5	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_5	Cellulose	PCWDE
+GH5_7	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_7	Hemicellulose	PCWDE
+GH5_9	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH5_9	Glucan	FCW
+GH51	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH51	Hemicellulose, Pectin	PCWDE
+GH52	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH52	Hemicellulose	PCWDE
+GH53	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH53	Pectin	PCWDE
+GH54	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH54	Hemicellulose, Pectin	PCWDE
+GH55	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH55	Glucan	FCW
+GH6	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH6	Cellulose	PCWDE
+GH62	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH62	Hemicellulose, Pectin	PCWDE
+GH64	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH64	Glucan	FCW
+GH67	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH67	Hemicellulose	PCWDE
+GH7	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH7	Cellulose	PCWDE
+GH71	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH71	Glucan	FCW
+GH72	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH72	Glucan	FCW
+GH74	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH74	Hemicellulose	PCWDE
+GH75	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH75	Chitin	FCW
+GH76	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH76	Mannan	FCW
+GH78	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH78	Pectin	PCWDE
+GH8	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH8	Hemicellulose	PCWDE
+GH81	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH81	Glucan	FCW
+GH88	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH88	Pectin	PCWDE
+GH9	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH9	Cellulose	PCWDE
+GH92	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH92	Mannan	FCW
+GH93	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	GH93	Hemicellulose	PCWDE
+GH95	Rytioja et al. 2014 (https://doi.org/10.1128/mmbr.00035-14), Floudas et al. 2015 (https://doi.org/10.1016/j.fgb.2015.02.002)	GH95	Hemicellulose	PCWDE
+GT18	Nagy et al. 2022 (https://doi.org/10.1101/2021.12.09.471732)	GT18	FCW	FCW
+GT2	Nagy et al. 2022 (https://doi.org/10.1101/2021.12.09.471732)	GT2	FCW	FCW
+GT24	Nagy et al. 2022 (https://doi.org/10.1101/2021.12.09.471732)	GT24	FCW	FCW
+GT48	Nagy et al. 2022 (https://doi.org/10.1101/2021.12.09.471732)	GT48	FCW	FCW
+GT8	Nagy et al. 2022 (https://doi.org/10.1101/2021.12.09.471732)	GT8	FCW	FCW
+PL1	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL1	Pectin	PCWDE
+PL1_10	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL1_10	Pectin	PCWDE
+PL1_4	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL1_4	Pectin	PCWDE
+PL1_7	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL1_7	Pectin	PCWDE
+PL1_9	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL1_9	Pectin	PCWDE
+PL11	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL11	Pectin	PCWDE
+PL14_4	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL14_4	Pectin	PCWDE
+PL26	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL26	Pectin	PCWDE
+PL3	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL3	Pectin	PCWDE
+PL3_2	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL3_2	Pectin	PCWDE
+PL4	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL4	Pectin	PCWDE
+PL4_1	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL4_1	Pectin	PCWDE
+PL4_3	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL4_3	Pectin	PCWDE
+PL8_4	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL8_4	Pectin	PCWDE
+PL9	Miyauchi et al. 2020 (https://doi.org/10.1038/s41467-020-18795-w)	PL9	Pectin	PCWDE
+PL9_3	Atanasova et al. 2018 (https://doi.org/10.1186/s12866-018-1310-9)	PL9_3	Pectin	PCWDE
