@@ -13,7 +13,7 @@ library(ggtreeExtra)
 library(reshape2)
 library(ggforce)
 
-###STEP1 : 
+###STEP1 : Species tree for Dataset1
 #Read the 66 species tree first. 
 tree<-read.tree("species.tree.nwk")
 plotTree(tree)
