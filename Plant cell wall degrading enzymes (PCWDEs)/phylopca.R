@@ -118,7 +118,7 @@ cellu_loadings<-ggplot(L2,aes(PC1,PC2,color=Lifestyle, label=name))+
   geom_segment(aes(x=0,y=0,xend=PC1,yend=PC2), arrow=arrow(length = unit(0.1,"in")),color="blue",alpha=0.5)+
   geom_text(size=5)+theme_bw()+scale_color_manual(values = c("#1B9E77","#E7298A","#666666"))
 
-
+##overlay region of pca on loadings
 cellu_loadings1<-cellu_loadings+ggtitle("Cellulases Loadings")+xlab("PC1")+ylab("PC2")+
   geom_rect(data=L2, aes(xmin=-0.09734199  , xmax=0.35982449, ymin=-0.09416557, ymax=0.09969399),
             color="red",fill=NA,alpha=0.9,inherit.aes = FALSE)+
@@ -126,7 +126,7 @@ cellu_loadings1<-cellu_loadings+ggtitle("Cellulases Loadings")+xlab("PC1")+ylab(
         legend.position = "none",axis.text=element_text(color="steelblue",size=12),
         axis.title = element_text(color="steelblue",size=15))
   
-final_plot<-Cellu_pca+Cellu_loadings
+final_plot<-Cellu_pca+Cellu_loadings1
 
 ##same can be done for other substrate files
 
