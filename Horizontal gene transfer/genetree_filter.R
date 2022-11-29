@@ -1,6 +1,12 @@
+###########################################################################################################################################################
+#############################                                                                                                 #############################
+#############################   Filter potential HT clades based on support values and taxonomic composition in gene trees    #############################
+#############################                                                                                                 #############################
+###########################################################################################################################################################
+
+##This script was orginally written by Zsolt Merenyi (https://github.com/zsmerenyi)
+
 rm(list=ls())
-getwd()
-setwd("C:/Users/Dell/Documents/TopGO/Armi_compgen_updated/HGT/plant_bact/all_fun_plant_bac/generax_crisscross_Tree/IQtree/")
 
 library(DECIPHER)
 library(ape)
@@ -10,6 +16,8 @@ library(stringr)
 library(phytools)
 library(phangorn)
 library(dplyr)
+
+##Create the function with parameters to select clades from genetree
 
 HGTDUP3<-function(fa,boot=0.7,ABG=0.6,AT=0.6,PT=0.7,abra=F){
   options(stringsAsFactors=FALSE)
@@ -21,7 +29,7 @@ HGTDUP3<-function(fa,boot=0.7,ABG=0.6,AT=0.6,PT=0.7,abra=F){
   anevek<-gsub("_events","",anevek)
   #TFA<-TransFile[TransFile$File==anevek,]
   
-  # legyartjuk az osszes lehetseges subtreet
+  ##construct the shared possible subtree
   stv<-Sys.time()
   st<-subtrees(evt) 
   Sys.time()-stv
