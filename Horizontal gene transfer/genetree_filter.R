@@ -330,12 +330,12 @@ HGTDUPPhys<-function(fa,boot=0.7,ABG=0.6,AT=0.6,PT=0.7,abra=F){
   return(EFI)
 }
 #----------------------------------------------------------------------------------------------------------
-source("C:/Users/Dell/Documents/TopGO/Armi_compgen_updated/HGT/plant_bact/all_fun_plant_bac/generax_crisscross_Tree/IQtree/SFun220218.R")
-setwd("C:/Users/Dell/Documents/TopGO/Armi_compgen_updated/HGT/plant_bact/all_fun_plant_bac/generax_crisscross_Tree/IQtree/")
+source("SFun220218.R")
+
 
 list.files()
 
-stree<-read.tree("inferred_species_tree.newick") #stree<-read.tree("D:/masoknak/Neha/GRAXexample/inferred_species_tree.newick")
+stree<-read.tree("inferred_species_tree.newick") 
 
 GFlist<-list.files(path="genetrees/", pattern = "MT.tree",full.names = T)
 GFlist
