@@ -47,9 +47,9 @@ plot(ptree)
 
 
 ###STEP3 : Phylogenetic PCA using phytools
-##This example is for the Cellulases
-##The file shows copy numbers of Ceellulase related PCWDEs in species from Dataset2
-##The gene copy numbers are normalized to proteome sizes
+##This example is for Cellulases
+##The file shows copy numbers of Cellulase related PCWDEs in species from Dataset2
+##The gene copy numbers were normalized to proteome sizes
 #for other substrates, file name can be changed from "cellul.tsv" to other substrates (eg. pectin.tsv)
 Cellu<-read.delim("cellu.tsv", header = T, row.names = 1)
 head(Cellu)
