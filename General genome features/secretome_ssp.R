@@ -1,13 +1,11 @@
 ####################################################################################################################################################
-#############################                                                                                          #############################
 #############################   Prediction of Secretome and Small Secreted Proteins (SSPs) in 131 species (Dataset2)   #############################
-#############################                                                                                          #############################
 ####################################################################################################################################################
 
 ###STEP1 : Concetenate the proteome files of 131 species into one fasta file (linux)
-#cat *.fas > 131sps_all.fas (here 131sps_all.fas is the output file) -this file needs checking before further processing
-#grep -c ">" 131sps_all.fas (checks the number of lines containing ">" character)
-#grep -c "^>" 131sps_all.fas (checks the number of lines starting with ">", this should be same as the previous step - if not - CHECK why!) 
+#cat *.fas > 131sps_all.fas #(here 131sps_all.fas is the output file) -this file needs checking before further processing
+#grep -c ">" 131sps_all.fas #(checks the number of lines containing ">" character)
+#grep -c "^>" 131sps_all.fas #(checks the number of lines starting with ">", this should be same as the previous step - if not - CHECK why!) 
 #once it is confirmed that fasta headers are in correct number, proceed with the following steps
 
 
