@@ -1,7 +1,5 @@
 #################################################################################################################################
-#############################                                                                       #############################
 #############################   Visualization of COMPARE output files for Dataset 1 (66 species)    #############################
-#############################                                                                       #############################
 #################################################################################################################################
 
 library(phytools)
@@ -36,7 +34,7 @@ LadderizeTree <- function(tree, temp_file = "temp", orientation = "left"){
   return(tree_lad)
 }
 
-##this is the Ladderzied tree with node numbers matching with COMPARE output
+##Ladderzied tree with node numbers matching with COMPARE output
 tree<-LadderizeTree(tree)
 plotTree(tree)
 
