@@ -2,7 +2,7 @@
 #############################   Filter potential HT clades based on support values and taxonomic composition in gene trees    #############################
 ###########################################################################################################################################################
 
-##This script was orginally written by Zsolt Merenyi (https://github.com/zsmerenyi)
+##This script was originally written by Zsolt Merenyi (https://github.com/zsmerenyi)
 
 rm(list=ls())
 
