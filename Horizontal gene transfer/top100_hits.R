@@ -4,12 +4,6 @@ library(stringr)
 library(forcats)
 library(purrr)
 
-setwd("C:/Users/Dell/Documents/TopGO/Armi_compgen_updated/HGT/plant_bact/all_fun_plant_bac/generax_crisscross_Tree/uniref/old/")
-
-list.files()
-rm(list=ls())
-
-
 
 ######################################################################################################################################
 #STEP1: Protein IDs for 675 OGs and their sequences for mmseqs
